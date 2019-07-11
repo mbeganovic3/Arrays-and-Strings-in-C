@@ -1,6 +1,5 @@
 # Lab 3: Arrays and Strings in C
 
-**Due 11:59pm, Sunday, Febuary 10, 2019.**
 
 ------------------------------------------
 
